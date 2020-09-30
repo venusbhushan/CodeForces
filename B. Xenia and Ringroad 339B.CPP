@@ -1,10 +1,9 @@
 #include <iostream>
-//#include<vector>
 using namespace std;
 
 int main()
 {
-    int i,j,n,m,x,sum,arr[100000];
+    int i,n,m,sum,arr[100000];
     cin>>n>>m;
     for(i=0;i<m;i++)
     {
